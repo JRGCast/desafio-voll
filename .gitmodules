@@ -1,3 +1,7 @@
 [submodule "desafio-voll-frontend"]
 	path = desafio-voll-frontend
 	url = https://github.com/JRGCast/desafio-voll-frontend
+
+[submodule "desafio-voll-backend"]
+	path = desafio-voll-backend
+	url = https://github.com/JRGCast/desafio-voll-backend
